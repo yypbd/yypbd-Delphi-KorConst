@@ -1,4 +1,4 @@
-{*******************************************************}
+ï»¿{*******************************************************}
 {                                                       }
 {            Delphi Visual Component Library            }
 {                                                       }
@@ -121,24 +121,24 @@ resourcestring
   SOutlineLongLine = 'Line too long';
   SOutlineMaxLevels = 'Maximum outline depth exceeded';
 
-  SMsgDlgWarning = '°æ°í';
-  SMsgDlgError = '¿À·ù';
-  SMsgDlgInformation = '¾Ë¸²';
-  SMsgDlgConfirm = 'È®ÀÎ';
-  SMsgDlgYes = '¿¹(&Y)';
-  SMsgDlgNo = '¾Æ´Ï¿À(&N)';
-  SMsgDlgOK = 'È®ÀÎ';
-  SMsgDlgCancel = 'Ãë¼Ò';
-  SMsgDlgHelp = 'µµ¿ò¸»(&H)';
-  SMsgDlgHelpNone = 'µµ¿ò¸» ¾øÀ½';
-  SMsgDlgHelpHelp = 'µµ¿ò¸»';
-  SMsgDlgAbort = 'Ãë¼Ò(&A)';
-  SMsgDlgRetry = 'Àç½Ãµµ(&R)';
-  SMsgDlgIgnore = '¹«½Ã(&I)';
-  SMsgDlgAll = 'ÀüºÎ(&A)';
-  SMsgDlgNoToAll = 'ÀüºÎ ¾Æ´Ï¿À(&o)';
-  SMsgDlgYesToAll = 'ÀüºÎ ¿¹(&A)';
-  SMsgDlgClose = '´İ±â(&C)';
+  SMsgDlgWarning = 'ê²½ê³ ';
+  SMsgDlgError = 'ì˜¤ë¥˜';
+  SMsgDlgInformation = 'ì•Œë¦¼';
+  SMsgDlgConfirm = 'í™•ì¸';
+  SMsgDlgYes = 'ì˜ˆ(&Y)';
+  SMsgDlgNo = 'ì•„ë‹ˆì˜¤(&N)';
+  SMsgDlgOK = 'í™•ì¸';
+  SMsgDlgCancel = 'ì·¨ì†Œ';
+  SMsgDlgHelp = 'ë„ì›€ë§(&H)';
+  SMsgDlgHelpNone = 'ë„ì›€ë§ ì—†ìŒ';
+  SMsgDlgHelpHelp = 'ë„ì›€ë§';
+  SMsgDlgAbort = 'ì·¨ì†Œ(&A)';
+  SMsgDlgRetry = 'ì¬ì‹œë„(&R)';
+  SMsgDlgIgnore = 'ë¬´ì‹œ(&I)';
+  SMsgDlgAll = 'ì „ë¶€(&A)';
+  SMsgDlgNoToAll = 'ì „ë¶€ ì•„ë‹ˆì˜¤(&o)';
+  SMsgDlgYesToAll = 'ì „ë¶€ ì˜ˆ(&A)';
+  SMsgDlgClose = 'ë‹«ê¸°(&C)';
 
   SmkcBkSp = 'BkSp';
   SmkcTab = 'Tab';
